@@ -7,7 +7,7 @@ This website will provide you with information on everything you need to know ab
 ## Development Team
 The guy who brought you kucheza.
 
-This are the official developer of the bot. Any other users that claim that they're bot owners, admins, mods or co-owners are false. Only the listed people below are real partners, and founders.
+This is the official developer of the bot. Any other users that claim that they're bot owners, admins, mods or co-owners are false. Only the listed people below are real partners, and founders.
 
 Founder/Head Developer
 
